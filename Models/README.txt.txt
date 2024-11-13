@@ -1,0 +1,1 @@
+The model [resnet50] will be provided upon request.

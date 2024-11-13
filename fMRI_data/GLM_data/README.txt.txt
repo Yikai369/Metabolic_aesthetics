@@ -1,0 +1,1 @@
+Please download the GLM data from https://figshare.com/articles/dataset/BOLD5000_Release_2_0/14456124
